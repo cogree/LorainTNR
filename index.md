@@ -86,16 +86,16 @@ Conversely, if you simply eliminate one outdoor cat that has not been spayed/neu
 Thinking about bringing kittens to the shelter?
 During kitten season, many shelters are overrun with kittens and don’t have adequate resources to care for them. Please care for them in your home until they’re 8 weeks old. The Arizona Humane Society has launched a new care-in-place program designed to make it convenient for good Samaritans to care for newborn kittens in their home. AHS will provide all the necessary tools, including care kits, vaccinations, spay/neuter surgery and training to ensure these little felines get off to a healthy start, and help you find them forever homes when they’re ready. 
 
-When we find a litter of kittens, our good-hearted instincts tell us to rush to the aid of these fragile felines. Thankfully, human intervention is typically not required. In fact, the best thing you can do is leave the kittens alone. Mom will likely return shortly and it’s critical that the kittens remain in her care as she offers the best chance for survival. If you are extremely certain that the kittens are orphaned, you can then step in and help by caring for the kittens until they’re old enough to find homes. The chart below will help you determine what steps to take if you’ve found kittens.
+When we find a litter of kittens, our good-hearted instincts tell us to rush to the aid of these fragile felines. Thankfully, human intervention is typically not required. In fact, the best thing you can do is leave the kittens alone. Mom will likely return shortly and it’s critical that the kittens remain in her care as she offers the best chance for survival. If you are extremely certain that the kittens are orphaned, you can then step in and help by caring for the kittens until they’re old enough to find homes. The link below will help you determine what steps to take if you’ve found kittens:
 
-https://www.somanycats.org/kittens
+<https://www.somanycats.org/kittens>
 
 ## How to Help (Volunteer/Donate)
 
 The Lorain TNR partners with the Friendship Animal Protective League, a 501© 3 non-profit organization.  We receive no public fundings and exist entirely on generous donations. 
-Please donate now by using the red “DONATE” link below:
+Please donate now by clicking the link below:
 
-https://co.clickandpledge.com/?wid=75477
+<https://co.clickandpledge.com/?wid=75477>
 
 
 ## Contact Us
@@ -105,11 +105,10 @@ We are staffed totally by volunteers with full time jobs and are funded by donat
 
 LORAIN TNR
 c/o Friendship Animal Protective League
-Or email us at LorainTNR@gmail.com
+or email us at LorainTNR@gmail.com
 
 VOLUNTEERS ARE NEEDED
 Donations of food, blankets and cages are always in need. 
-
 
 <!-- You can use the [editor on GitHub](https://github.com/cogree/LorainTNR/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
