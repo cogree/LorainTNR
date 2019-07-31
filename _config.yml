@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
-show_downloads: false
+title: Lorain TNR
+github:
+ is_project_page: false
+ show_downloads: false
