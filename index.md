@@ -1,4 +1,13 @@
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144900832-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-144900832-1');
+</script>
+
 ## What is TNR?
 
 Trap-Neuter-Return (TNR) is a program in which outdoor cats are humanely trapped, spayed or neutered, ear-tipped and returned to the location where they were found. TNR is the most humane and effective method for stabilizing and eventually reducing outdoor cat populations.
