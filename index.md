@@ -41,6 +41,8 @@ The Friendship Animal Protective League generously offers “how to” presentat
 
 ### Our History
 
+![cat1]({{ site.url }}/assets/cat1.jpg) 
+
 The Lorain TNR consist of a group of concerned citizens who have joined together to help control the feral cat population in our community.  We began TNR (trap, neuter, return) on our own and reached out to Friendship Animal Protective League for assistance in 2018.  They generously took us under their wing and provided us with training, use of their surgery center and equipment.  They accept and maintain incoming calls for trapping in the City of Lorain as well as any funding donations designated for our cause.    The volunteer base continues to grow and funding avenues of all kinds are being explored.  To become a member, please “like” our LORAIN TNR page on FaceBook or join our community for free online.
 
 ### Our Mission
