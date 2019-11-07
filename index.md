@@ -14,7 +14,7 @@ Trap-Neuter-Return (TNR) is a program in which outdoor cats are humanely trapped
 
 ### Trap
 Outdoor cats are humanely trapped by those participating in the TNR Program or volunteers assisting those who qualify for “trapping assistance”.
-The traps used are humane, "TruCatch box traps."
+The traps used are humane.
 
 ### Neuter
 The cats are spayed or neutered by a veterinarian. These surgeries are sometimes called “fixing” or “altering” a cat. The left ear is “tipped” to identify the cat as fixed. “Tipped” means that a tiny part of the ear is snipped to indicate that the cat has been altered. This procedure is performed while the cat is under anesthesia. Ear-tipping is a universal identifier of a sterilized homeless outdoor cat and helps those who are trapping cats to know that the spay/neuter has already been completed, thus avoiding subjecting the cat to a needless trapping and a second unnecessary surgical experience.
@@ -47,7 +47,7 @@ The Lorain TNR is a not for profit advocacy organization working to reduce the e
 
 We assist homeowner associations, apartment complexes, mobile home parks, businesses, government offices and individuals with free roaming and stray cat populations.
 
-The Friendship Animal Protective League generously offers “how to” presentations on the topics of trapping, how cats can be good neighbors and how to lobby and negotiate for feral cats.
+The Friendship Animal Protective League and other rescue groups generously offer “how to” presentations on the topics of trapping, how cats can be good neighbors and how to lobby and negotiate for feral cats.
 
 ### Our History
 
@@ -59,7 +59,7 @@ The Lorain TNR consist of a group of concerned citizens who have joined together
 
 The goal of The Lorain TNR is to educate community leaders and residents of the City of Lorain, Ohio on implementing an economically feasible method for humanely reducing the population of stray and free roaming cats, thus easing neighborhood tensions, fostering compassion, and to see abuse diminished and laws enforced.
 
-We cannot relocate or remove cats. In the state of Arizona cats are free roaming and have the right to remain where they make their home. Removal or relocation could result in criminal or civil prosecution.
+We cannot relocate or remove cats. In the state of Ohio cats are free roaming and have the right to remain where they make their home. Removal or relocation could result in criminal or civil prosecution.
 We are NOT a rescue group or shelter and cannot pick up, relocate, place OR adopt out kittens or cats.
 
 The Lorain TNR is supported solely through donations. We do not receive any taxpayer support or other public funding. Please make a donation today and help end cat overpopulation in the City of Lorain.
@@ -79,11 +79,11 @@ There are a number of items and other deterrents that can help you keep cats out
 Struggling to co-exist with a neighbor who is caring for outdoor cats? Here are a few tips that may help you resolve your dispute.
  
 ### Animal Abuse
-Please remember, cats are covered under the Animal Cruelty Statutes. Anyone caught harming or endangering cats can be arrested and charged with animal cruelty. If you witness or suspect animal cruelty, please follow these tips.
+Please remember, cats are covered under the Animal Cruelty Statutes. Anyone caught harming or endangering cats can be arrested and charged with animal cruelty. If you witness or suspect animal cruelty, please call the authorities. In addition, consider this fact:
  
-But removing them is not the best solution. By spaying/neutering outdoor cats, you can often reduce or even eliminate many of these behaviors, benefiting both you and the cats. Most importantly, spaying/neutering ends the breeding cycle and the possibility of reproduction, which in time may reduce the number of cats in your neighborhood.
+**Removing the cat is not the best solution**. By spaying/neutering outdoor cats, you can often reduce or even eliminate many of these behaviors, benefiting both you and the cats. Most importantly, spaying/neutering ends the breeding cycle and the possibility of reproduction, which in time may reduce the number of cats in your neighborhood.
  
-Conversely, if you simply eliminate one outdoor cat that has not been spayed/neutered, another intact cat will likely move in to take its place and utilize the resources the first cat left behind. That leads to an endless cycle of cat after cat having litter after litter of kittens who continue to exhibit the negative behaviors that frustrate you.
+Conversely, if you simply eliminate one outdoor cat that has not been spayed/neutered, another intact cat will likely move in to take its place and utilize the resources the first cat left behind. That leads to an endless cycle of cat after cat having litter after litter of kittens who continue to exhibit the negative behaviors.
 
 
 ## Found Kittens?
@@ -91,7 +91,7 @@ Conversely, if you simply eliminate one outdoor cat that has not been spayed/neu
 **Mom will likely return. Please don’t intervene.**
 
 Thinking about bringing kittens to the shelter?
-During kitten season, many shelters are overrun with kittens and don’t have adequate resources to care for them. Please care for them in your home until they’re 8 weeks old. The Arizona Humane Society has launched a new care-in-place program designed to make it convenient for good Samaritans to care for newborn kittens in their home. AHS will provide all the necessary tools, including care kits, vaccinations, spay/neuter surgery and training to ensure these little felines get off to a healthy start, and help you find them forever homes when they’re ready. 
+During kitten season, many shelters are overrun with kittens and don’t have adequate resources to care for them. Please care for them in your home until they’re 8 weeks old. 
 
 When we find a litter of kittens, our good-hearted instincts tell us to rush to the aid of these fragile felines. Thankfully, human intervention is typically not required. In fact, the best thing you can do is leave the kittens alone. Mom will likely return shortly and it’s critical that the kittens remain in her care as she offers the best chance for survival. If you are extremely certain that the kittens are orphaned, you can then step in and help by caring for the kittens until they’re old enough to find homes. The link below will help you determine what steps to take if you’ve found kittens:
 
@@ -99,10 +99,7 @@ When we find a litter of kittens, our good-hearted instincts tell us to rush to 
 
 ## How to Help (Volunteer/Donate)
 
-The Lorain TNR partners with the Friendship Animal Protective League, a 501© 3 non-profit organization.  We receive no public fundings and exist entirely on generous donations. 
-Please donate now by clicking the link below:
-
-<https://co.clickandpledge.com/?wid=75477>
+The Lorain TNR partners with the Friendship Animal Protective League and other non-profit rescue groups.  We receive no public fundings and exist entirely on generous donations.
 
 
 ## Contact Us
