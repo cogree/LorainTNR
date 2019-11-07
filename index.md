@@ -81,7 +81,9 @@ Struggling to co-exist with a neighbor who is caring for outdoor cats? Here are 
 ### Animal Abuse
 Please remember, cats are covered under the Animal Cruelty Statutes. Anyone caught harming or endangering cats can be arrested and charged with animal cruelty. If you witness or suspect animal cruelty, please call the authorities. In addition, consider this fact:
  
-**Removing the cat is not the best solution**. By spaying/neutering outdoor cats, you can often reduce or even eliminate many of these behaviors, benefiting both you and the cats. Most importantly, spaying/neutering ends the breeding cycle and the possibility of reproduction, which in time may reduce the number of cats in your neighborhood.
+**Removing the cat is not the best solution**. 
+
+By spaying/neutering outdoor cats, you can often reduce or even eliminate many of these behaviors, benefiting both you and the cats. Most importantly, spaying/neutering ends the breeding cycle and the possibility of reproduction, which in time may reduce the number of cats in your neighborhood.
  
 Conversely, if you simply eliminate one outdoor cat that has not been spayed/neutered, another intact cat will likely move in to take its place and utilize the resources the first cat left behind. That leads to an endless cycle of cat after cat having litter after litter of kittens who continue to exhibit the negative behaviors.
 
